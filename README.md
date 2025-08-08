@@ -25,7 +25,7 @@ To develop a classification model that predicts the presence of heart disease us
   - `target`: Diagnosis of heart disease (1 = yes, 0 = no)  
 - **Missing Values:** None  
 
-## ⚙️ Methodology  
+## Methodology  
 
 ### 1. Data Preprocessing  
 - Loaded dataset from Excel using Pandas  
