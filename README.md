@@ -54,15 +54,14 @@ To develop a classification model that predicts the presence of heart disease us
 - Computed cross-entropy loss, precision, recall, F1-score  
 - Plotted ROC curve and computed AUC  
 
-## 📈 Results & Insights  
-- **Accuracy:** 85%  
-- **Precision:** (insert value)  
-- **Recall:** (insert value)  
-- **F1-score:** (insert value)  
-- **AUC:** (insert value)  
-- Key insights: e.g., “Chest pain type and maximum heart rate were strong predictors of heart disease.”
+## Results  
+- **Accuracy:** 85%
+- **Precision:** 0.871  
+- **Recall:** 0.844  
+- **F1-score:** 0.857  
+- **ROC AUC Score:** 0.927   
 
-## 🛠️ Technologies Used  
+## Technologies Used  
 - Python  
 - Libraries:  
   - NumPy, Pandas  
